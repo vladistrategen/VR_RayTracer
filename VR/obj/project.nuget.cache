@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gtZpJ1a0cE8/X8g4GaUh0JM3CkwIStmo1a2lN2v8MUSi3X5ZbGs2XgJLAH0CLo3wzNyxFl9qogpFgCuwFZFfYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladi\\source\\repos\\VR\\VR\\VR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
